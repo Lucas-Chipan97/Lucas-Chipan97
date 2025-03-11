@@ -6,7 +6,7 @@
 
 ## A passionate Data Engineer & System Administrator from France
 
-- 🔭 I'm currently working as **Alternant Administrateur Système et Réseaux at Exacompta**
+- 🔭 I'm currently working as **Internship as HR data controller at SNCF**
 
 - 🌱 I'm currently learning **Data Engineering and creating videos about software, crypto/economics and programming languages**
 
