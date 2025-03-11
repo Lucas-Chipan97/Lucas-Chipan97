@@ -6,7 +6,7 @@
 
 ## A passionate Data Engineer & System Administrator from France
 
-- 🔭 I'm currently working as **Internship as HR data controller at SNCF**
+- 🔭 I'm currently working as **HR Data Controller (Alternance) at SNCF**
 
 - 🌱 I'm currently learning **Data Engineering and creating videos about software, crypto/economics and programming languages**
 
@@ -98,16 +98,38 @@
 
 ## Professional Experience:
 
-### 💼 System and Network Administrator (Alternance)
-**Exacompta, Paris** | *Sept 2022 - Aug 2024*
-- Windows workstation setup procedures
-- Level 1-2 user support
-- Active Directory management
-- Print management
-- Reporting
-- KACE appliance management
-- PRTG monitoring solutions
-- IT system administration (servers, workstations, printers, etc.)
+<table>
+  <tr>
+    <td valign="top">
+      <h3>💼 System and Network Administrator (Alternance)</h3>
+      <strong>Exacompta, Paris</strong> | <em>Sept 2022 - Aug 2024</em>
+      <ul>
+        <li>Windows workstation setup procedures</li>
+        <li>Level 1-2 user support</li>
+        <li>Active Directory management</li>
+        <li>Print management</li>
+        <li>Reporting</li>
+        <li>KACE appliance management</li>
+        <li>PRTG monitoring solutions</li>
+        <li>IT system administration (servers, workstations, printers, etc.)</li>
+      </ul>
+    </td>
+    <td style="border-left: 1px solid #ccc; padding-left: 15px;" valign="top">
+      <h3>💼 HR Data Controller (Alternance)</h3>
+      <strong>SNCF, Paris</strong> | <em>Sept 2024 - Present</em>
+      <ul>
+        <li>Data visualization using Power BI (Web & Desktop)</li>
+        <li>Advanced DAX formulas implementation</li>
+        <li>ETL processes with Power Query</li>
+        <li>Needs analysis and requirements gathering</li>
+        <li>HR data processing automation</li>
+        <li>Creation of interactive dashboards</li>
+        <li>Data quality monitoring and improvement</li>
+        <li>Report generation and KPI tracking</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## Education:
 
