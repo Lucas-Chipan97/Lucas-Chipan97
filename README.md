@@ -60,12 +60,12 @@
 
 ## Projects:
 
-<table>
+<table align="center" width="100%">
   <tr>
-    <td valign="top">
+    <td valign="top" align="center">
       <h3>🔍 Academic Projects</h3>
       <strong>Vector Search Engine</strong>
-      <ul>
+      <ul align="left">
         <li>MySQL - Python - Java (Data Scientist)</li>
         <li>Storage of millions of data points (BigData)</li>
         <li>Vector-based search implementation</li>
@@ -75,7 +75,7 @@
       </ul>
       <br>
       <strong>Database Exploitation</strong>
-      <ul>
+      <ul align="left">
         <li>ETL - QlikSense (Data Analyst/BI)</li>
         <li>Research of relevant data (API, CSV)</li>
         <li>Data extraction and loading</li>
@@ -84,9 +84,9 @@
         <li>Reporting on analyses</li>
       </ul>
     </td>
-    <td style="border-left: 1px solid #ccc; padding-left: 15px;" valign="top">
+    <td style="border-left: 1px solid #ccc; padding-left: 15px;" valign="top" align="center">
       <h3>💻 Personal Projects</h3>
-      <ul>
+      <ul align="left">
         <li>Building a personal portfolio website</li>
         <li>Financial markets trend analysis</li>
         <li>Job dating website (collaboration)</li>
@@ -98,12 +98,12 @@
 
 ## Professional Experience:
 
-<table>
+<table align="center" width="100%">
   <tr>
-    <td valign="top">
+    <td valign="top" align="center">
       <h3>💼 System and Network Administrator (Alternance)</h3>
       <strong>Exacompta, Paris</strong> | <em>Sept 2022 - Aug 2024</em>
-      <ul>
+      <ul align="left">
         <li>Windows workstation setup procedures</li>
         <li>Level 1-2 user support</li>
         <li>Active Directory management</li>
@@ -114,10 +114,10 @@
         <li>IT system administration (servers, workstations, printers, etc.)</li>
       </ul>
     </td>
-    <td style="border-left: 1px solid #ccc; padding-left: 15px;" valign="top">
+    <td style="border-left: 1px solid #ccc; padding-left: 15px;" valign="top" align="center">
       <h3>💼 HR Data Controller (Alternance)</h3>
       <strong>SNCF, Paris</strong> | <em>Sept 2024 - Present</em>
-      <ul>
+      <ul align="left">
         <li>Data visualization using Power BI (Web & Desktop)</li>
         <li>Advanced DAX formulas implementation</li>
         <li>ETL processes with Power Query</li>
