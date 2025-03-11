@@ -58,23 +58,43 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
 
-## Academic Projects:
+## Projects:
 
-### 🔍 Development of a Vector Search Engine
-- MySQL - Python - Java (Data Scientist/Data Analyst)
-- Storage of millions of data points (BigData) with MySQL
-- Vector-based search engine implementation
-- Word indexing using TF-IDF
-- Implementation with libraries (scikit-learn, NumPy)
-- PageRank algorithm
-
-### 📊 Database Exploitation
-- ETL - QlikSense (Data Scientist/Data Analyst/BI)
-- Research of relevant data (API, CSV files)
-- Data extraction and loading
-- Star schema implementation
-- Analysis sheet design
-- Reporting on analyses
+<table>
+  <tr>
+    <td valign="top">
+      <h3>🔍 Academic Projects</h3>
+      <strong>Vector Search Engine</strong>
+      <ul>
+        <li>MySQL - Python - Java (Data Scientist)</li>
+        <li>Storage of millions of data points (BigData)</li>
+        <li>Vector-based search implementation</li>
+        <li>TF-IDF word indexing</li>
+        <li>Using scikit-learn, NumPy</li>
+        <li>PageRank algorithm</li>
+      </ul>
+      <br>
+      <strong>Database Exploitation</strong>
+      <ul>
+        <li>ETL - QlikSense (Data Analyst/BI)</li>
+        <li>Research of relevant data (API, CSV)</li>
+        <li>Data extraction and loading</li>
+        <li>Star schema implementation</li>
+        <li>Analysis sheet design</li>
+        <li>Reporting on analyses</li>
+      </ul>
+    </td>
+    <td style="border-left: 1px solid #ccc; padding-left: 15px;" valign="top">
+      <h3>💻 Personal Projects</h3>
+      <ul>
+        <li>Building a personal portfolio website</li>
+        <li>Financial markets trend analysis</li>
+        <li>Job dating website (collaboration)</li>
+        <li>Charitable association website</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## Professional Experience:
 
@@ -107,6 +127,11 @@
 
 ---
 
+<!-- 
+Les statistiques GitHub sont désactivées pour éviter l'erreur
+Si vous souhaitez les réactiver plus tard, utilisez:
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucaschipan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="lucaschipan" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VOTRE_NOM_UTILISATEUR_GITHUB&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="VOTRE_NOM_UTILISATEUR_GITHUB" />
 </div>
+-->
